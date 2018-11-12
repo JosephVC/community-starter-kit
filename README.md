@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* This community applicaiton is designed to help people feel welcome and find useful information. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Be welcoming
+* Make it clear that collaboration is desired
+* Other good things
 
 ## Getting started
 
